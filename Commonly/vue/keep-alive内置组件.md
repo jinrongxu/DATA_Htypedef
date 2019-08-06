@@ -1,4 +1,3 @@
-[toc]
 #### keep-alive内置组件
 - keep-alive是Vue.js的一个内置组件。
 - <keep-alive> 包裹**动态组件**时，==会缓存不活动的组件实例，而不是销毁它们。==

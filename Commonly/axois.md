@@ -1,4 +1,3 @@
-[toc]
 ### axios
 axios是基于promise的http库，可以用于浏览器和node.js中。
 #### 安装

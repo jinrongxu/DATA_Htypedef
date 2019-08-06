@@ -1,4 +1,3 @@
-[toc]
 # module
 模块功能主要由两个命令构成：export和import
 - export命令是用于规定模块的对外接口

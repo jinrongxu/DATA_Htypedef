@@ -1,4 +1,3 @@
-[toc]
 # es6方法
 ## Object.assign({}, obj1, obj2); 合并对象
 返回第一个参数 默认修改第一个参数<br/>

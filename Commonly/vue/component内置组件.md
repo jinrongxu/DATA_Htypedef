@@ -1,4 +1,3 @@
-[toc]
 # component内置组件
 ## component
 - Props：

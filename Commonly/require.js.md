@@ -1,4 +1,3 @@
-[toc]
 ### require
 为什么使用require.js
 - 首先一个页面如果在加载多个js文件的时候，浏览器会停止网页渲染，加载文件越多，网页失去响应的时间就会越长；
@@ -14,7 +13,7 @@ node.js服务器 ——> common.js ——>同步加载
 
 ### 使用
 1、官网下载新版本，引入页面加载。
-http://www.requirejs.cn/
+https://requirejs.org
 ```
 <script src="js/require.js" defer async="true" ></script>
 ```

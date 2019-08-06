@@ -1,4 +1,3 @@
-[toc]
 ### react简介
 
 > Facebook开发的一款JS库

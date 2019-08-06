@@ -1,6 +1,5 @@
 ### let 与 const
 let和const是es6的两个声明标识符。
-[toc]
 ### const 
 1. 不能对变量重赋值
 2. 产生块级作用域
